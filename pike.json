@@ -1,0 +1,7 @@
+{
+  "name": "Hello",
+  "version": "1.0.0",
+  "description": "Example pmp-installable Pike module",
+  "source": "github.com/TheSmuks/pmp-example-module",
+  "dependencies": {}
+}

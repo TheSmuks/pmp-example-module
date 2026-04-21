@@ -1,0 +1,4 @@
+modules/
+*.o
+.pike-env/
+pike.lock
